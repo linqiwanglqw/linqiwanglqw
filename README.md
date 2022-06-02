@@ -7,7 +7,7 @@
 
 <a href="https://goog.tech"><img align='right' src='https://media.giphy.com/media/d1DVd87uM1xJip8gUv/giphy.gif' width='280'></a>
 
-- 👋 **后端：**    Java，Go，PHP
+- 👋 **后端：**    Java，Go
 - 👀 **前端：** HTML，CSS，JavaScript, Vue, JQuery,小程序
 - 🌱 **中间件：** MySQL, Redis, RocketMQ ,ElasticSearch
 - 💞️ **框架：** SpringBoot、SpringCloud
