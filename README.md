@@ -2,6 +2,8 @@
 
 <img align="" height="126px" src="https://github-readme-stats.vercel.app/api?username=linqiwanglqw&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,D36A53,834E86&text_color=FFFFFF&icon_color=FFFFFF&locale=cn" /><img align="" height="126px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linqiwanglqw&hide_title=true&hide_border=true&layout=compact&bg_color=0,834E86,1E90FF&icon_color=FFFFFF&text_color=FFFFFF&locale=cn" />
 
+![](https://raw.githubusercontent.com/linqiwanglqw/linqiwanglqw/main/assets/github-contribution-grid-snake.svg)
+
 
 ##  👽自我介绍
 
